@@ -1,0 +1,20 @@
+/* Global reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0f0c29;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+/* Center content helper (future use) */
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
